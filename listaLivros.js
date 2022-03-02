@@ -22,6 +22,26 @@ const precosLivros = [
     {
         titulo: "Python",
         preco: 20
-    }]
+    },
+    {
+        titulo: "Flutter",
+        preco: 21
+    },
+    {
+        titulo: "Swift",
+        preco: 40
+    },
+    {
+        titulo: "C#",
+        preco: 120
+    },
+    {
+        titulo: "Linux",
+        preco: 69
+    },
+    {
+        titulo: "Assembly",
+        preco: 10
+    },]
 
 module.exports = precosLivros;

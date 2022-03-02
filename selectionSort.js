@@ -1,7 +1,7 @@
 const livros = require('./listaLivros')
 const menorValor = require('./menorValor')
 
-
+const titulosOrdenados = [];
 
 livros.forEach((_, indice)=>{
     let menor = menorValor(livros, indice)
